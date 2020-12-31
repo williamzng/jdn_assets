@@ -1,0 +1,46 @@
+{
+	"attributes": [{
+			"trait_type": "2021 New Year Limited",
+			"value": "Juggernaut JGN"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "SAFU"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Masked Up"
+		},
+		{
+			"trait_type": "Level",
+			"value": 4
+		},
+		{
+			"trait_type": "Stamina",
+			"value": 90.2
+		},
+		{
+			"trait_type": "Personality",
+			"value": "Festive"
+		},
+		{
+			"display_type": "boost_number",
+			"trait_type": "Aqua Power",
+			"value": 10
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Stamina Increase",
+			"value": 5
+		},
+		{
+			"display_type": "number",
+			"trait_type": "Generation",
+			"value": 1
+		}
+	],
+	"description": "After a crazy 2020, CZ gets ready to party, with the necessary precautions.",
+	"external_url": "https://openseacreatures.io/3",
+	"image": "https://raw.githubusercontent.com/williamzng/jdn_assets/main/newyear_cz.jpg",
+	"name": "SAFU New Years CZ by JGN"
+}
